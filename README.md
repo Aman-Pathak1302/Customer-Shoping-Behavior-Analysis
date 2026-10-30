@@ -1,4 +1,5 @@
 # Customer Shopping Behavior Analysis
+![Dashboard](Dashboard.png)
 ## Project Description:
 This project focuses on analyzing customer shopping behavior to identify purchasing patterns, understand customer preferences, and generate meaningful business insights from shopping data.
 
@@ -55,5 +56,5 @@ The analysis explores customer demographics, purchasing habits, product preferen
 
 
 
-![Dashboard](Dashboard.png)
+
 
