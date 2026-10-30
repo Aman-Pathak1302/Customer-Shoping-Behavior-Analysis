@@ -1,7 +1,8 @@
-# Customer Shopping Behavior Analysi
+# Customer Shopping Behavior Analysis
+
+
 
 
 
 ![Dashboard](Dashboard.png)
-
 
