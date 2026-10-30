@@ -1,2 +1,1 @@
-# Customer-Shoping-Behavior-Analysis
-An end to end data analytics project using Python,SQL,. and Power BI to analyze cutomer shoping behavior  and generate actionable business insights.
+The image will now appear on your repo's front page. The filename in the README must match exactly (Dashboard.png, all lowercase).
